@@ -1,0 +1,28 @@
+# Binaries and Object Files
+
+\[Bb\]in/
+\[Oo\]bj/
+
+# Dependencies
+
+\*\*/node_modules
+
+# IDE/OS generated files
+
+.DS_Store
+.env
+.vscode/
+
+# Frontend build files
+
+TaskManager.Web/dist
+
+# dotnet temp files
+
+.vs/
+.log
+\*.log
+
+# Optional: Certificate and debug keys
+
+\*.pfx
